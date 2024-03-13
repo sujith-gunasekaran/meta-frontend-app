@@ -14,7 +14,6 @@ node_modules
 .fdk
 .meta
 log
-pnpm-lock.yaml
 .report.json
 
 output
